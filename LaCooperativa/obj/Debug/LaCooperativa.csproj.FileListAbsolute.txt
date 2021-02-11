@@ -1,0 +1,7 @@
+D:\Documentos\PROGRAMACION\LaCooperativa\LaCooperativa\bin\Debug\LaCooperativa.exe.config
+D:\Documentos\PROGRAMACION\LaCooperativa\LaCooperativa\bin\Debug\LaCooperativa.exe
+D:\Documentos\PROGRAMACION\LaCooperativa\LaCooperativa\bin\Debug\LaCooperativa.pdb
+D:\Documentos\PROGRAMACION\LaCooperativa\LaCooperativa\obj\Debug\LaCooperativa.csprojAssemblyReference.cache
+D:\Documentos\PROGRAMACION\LaCooperativa\LaCooperativa\obj\Debug\LaCooperativa.csproj.CoreCompileInputs.cache
+D:\Documentos\PROGRAMACION\LaCooperativa\LaCooperativa\obj\Debug\LaCooperativa.exe
+D:\Documentos\PROGRAMACION\LaCooperativa\LaCooperativa\obj\Debug\LaCooperativa.pdb
